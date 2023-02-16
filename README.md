@@ -9,8 +9,10 @@ Technologies: Flutter / Firebase / Android / IOS / Géolocalisation / Getx ..
 
 ##	Authentication via social media
 
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/219414708-dd3e6d03-d6a7-4d12-93f4-fba822c57a3e.jpg"  width="250"  >
+<img src="https://user-images.githubusercontent.com/64175026/219414718-7b92015b-edaa-4f73-b534-26cca6b4aafd.jpg"  width="250"  >
+</p>
 
 
 ##	Schedule mode
