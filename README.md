@@ -39,13 +39,15 @@ Technologies: Flutter / Firebase / Android / IOS / Géolocalisation / Getx ..
 <img src="https://user-images.githubusercontent.com/64175026/219412083-e083dfc4-3462-4416-bbb2-f337039f8bcf.jpg"  width="250"  >
 </p>
 
-
 ## Order  Details page
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64175026/219412468-964cac34-60e0-4d43-ae17-cc50622e4fa7.jpg"  width="250"  >
 <img src="https://user-images.githubusercontent.com/64175026/219412488-d32a9df8-929b-439c-9822-1237f642e47a.jpg"  width="250"  >
 <img src="https://user-images.githubusercontent.com/64175026/219412507-8c78e069-e3e7-446a-b4e2-7b1355c16b75.jpg"  width="250"  >
+
+<img src="https://user-images.githubusercontent.com/64175026/219441264-8e7d3613-cbc8-4e24-b1c9-8fba15ff4349.jpg"  width="250"  >
+<img src="https://user-images.githubusercontent.com/64175026/219441360-64f33287-717d-4ec1-ad45-526a7459556f.jpg"  width="250"  >
 <img src="https://user-images.githubusercontent.com/64175026/219410855-5dd3b80f-dae6-4987-9572-5927fdb6db81.jpg"  width="250"  >
 
 </p>
