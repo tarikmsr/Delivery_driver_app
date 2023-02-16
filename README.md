@@ -22,7 +22,7 @@ Technologies: Flutter / Firebase / Android / IOS / Géolocalisation / Getx ..
 
 
 
-## waiting for Orders
+## Waiting for Orders
 
 <p align="center">
 
@@ -31,8 +31,31 @@ Technologies: Flutter / Firebase / Android / IOS / Géolocalisation / Getx ..
 
 
 
+## New Orders
+<p align="center">
 
-## rating order page
+<img src="https://user-images.githubusercontent.com/64175026/219412083-e083dfc4-3462-4416-bbb2-f337039f8bcf.jpg"  width="250"  >
+</p>
+
+
+## Order  Details page
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/219412468-964cac34-60e0-4d43-ae17-cc50622e4fa7.jpg"  width="250"  >
+<img src="https://user-images.githubusercontent.com/64175026/219412488-d32a9df8-929b-439c-9822-1237f642e47a.jpg"  width="250"  >
+
+<img src="https://user-images.githubusercontent.com/64175026/219412507-8c78e069-e3e7-446a-b4e2-7b1355c16b75.jpg"  width="250"  >
+</p>
+
+
+## Map page
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/219413399-7ddcea96-9688-40c4-aa5b-91fdd0069285.jpg"  width="250"  >
+</p>
+
+
+## Rating order page
 
 <p align="center">
 
@@ -40,7 +63,16 @@ Technologies: Flutter / Firebase / Android / IOS / Géolocalisation / Getx ..
 </p>
 
 
-## setting page
+## Profile page
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/219411576-17c0f8e5-8d7a-4465-a6c8-3f7c9955a265.jpg"  width="250"  >
+</p>
+
+
+
+
+## Setting page
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64175026/219409572-8269a630-abf9-430c-b6a0-b87f7708861a.jpg"  width="250"  >
